@@ -1,1 +1,2 @@
-# animal-trading-card
+# creating animal trading card using HTML & CSS
+
