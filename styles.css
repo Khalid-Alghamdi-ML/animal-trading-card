@@ -1,0 +1,44 @@
+.card{
+    border: 2px solid #000000;
+    margin: 0px auto;
+    padding: 10px;    
+    width: 300px;
+    background: #BF8737;
+    box-shadow: 10px 10px #8686869f;
+}
+#name{
+    font-size: 25px;
+    border-top: 2px solid #ffffff9f;
+    border-left: 2px solid #ffffff9f;
+    border-bottom: 2px solid #0000009b;
+    border-right: 2px solid #0000009b;
+    margin: 5px 0px ;
+    padding: 5px;
+}
+.card img{
+    width: 300px;
+    display: block;
+    margin:0px 0px auto;
+}
+.info{
+    font-size: 15px;
+    border: 2px solid #af5540;
+    margin: 5px 0px auto;
+    padding: 5px;
+    background: #e9cfa8;
+}
+.fact{
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    padding: 0px;
+    list-style-type: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.labels{
+    font-weight: bold;
+}
+.description{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
